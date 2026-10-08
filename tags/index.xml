@@ -5,6 +5,27 @@
     <link>https://msofeu.github.io/tags/</link>
     <description>Recent content in Tags on My Hugo Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://msofeu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://msofeu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogging</title>
+      <link>https://msofeu.github.io/tags/blogging/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://msofeu.github.io/tags/blogging/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://msofeu.github.io/tags/tech/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://msofeu.github.io/tags/tech/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
   </channel>
 </rss>
